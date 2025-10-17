@@ -21,3 +21,12 @@ Navigate the menu by disabling freecam mode and then use `WASD` - or change the 
 
 ### Get to/Play ... content/mod?
 Read the [Gameplay](Gameplay.md) page as this outlines requirements for certain content mods.
+
+## Where are my...?
+
+### Screenshots Saved?
+- Screenshots taken with the in game hotkey will go to the `Merethic\Stock Game` folder.
+- Screenshots taken in photo mode will go to `Documents\My Games\Skyrim Special Edition\Photos`.
+
+### Earnings from *working the town*?
+Let the scene play out till finish and then talk to the participant after.
