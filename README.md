@@ -7,8 +7,9 @@ First things first: **this list contains adult content and you must be of legal 
 - [What is Merethic?](#what-is-merethic)
 - [Quick Links](#quick-links)
 - [Need Support?](#need-support)
-  - [Asking on Discord](#asking-for-support-in-discord)
+  - [Asking for support in Discord](#asking-for-support-in-discord)
 - [Support me?](#support-me)
+- [Load Order Library](#load-order-library)
 - [Preface](#preface)
 - [Hardware Requirements](#hardware-requirements)
   - [Storage Space](#storage-space)
@@ -21,10 +22,11 @@ First things first: **this list contains adult content and you must be of legal 
   - [Disable Steam Overlay](#disable-steam-overlay)
   - [Set game language to English](#set-game-language-to-english)
   - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
-  - [Install Skyrim](#install-skyrim-se)
-  - [Start the Game](#start-skyrim-se)
+  - [Install Skyrim SE](#install-skyrim-se)
+  - [Install Creation Kit](#install-creation-kit)
+  - [Start Skyrim SE](#start-skyrim-se)
   - [Manually download non-Nexus mods](#manually-download-non-nexus-mods)
-- [Installation](#installation-of-the-modlist)
+- [Installation of the Modlist](#installation-of-the-modlist)
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Other Installation Issues](#other-installation-issues)
 - [Post-Installation](#post-installation)
@@ -180,6 +182,10 @@ Do this by right clicking on Skyrim in your game library and clicking **Properti
 
 ## Install Skyrim SE
 Once you've done the steps above, you can now set Steam to download Skyrim but ***do not*** install Skyrim to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
+
+## Install Creation Kit
+You will also need Skyrim Special Edition Creation Kit installed from Steam (make sure to enable software/tools if you can't see it).  
+If you don't have the Creation Kit installed, the Wabbajack Installation will fail.
 
 ## Start Skyrim SE
 Start Skyrim and let it load to the main menu.
